@@ -6,3 +6,5 @@ This project was intended to record player statistics from game footage in an at
 Additionally, standard and advanced game statistics were used to define new roles for NBA players through the use of K-Means clustering. This can be found, alongside visualizations of the recorded player data, in the Altair notebook. 
 
 Lastly, all visualizations and a few model predictions can be accessed in a web page format using the total.html file. 
+
+Both notebooks can be run in google colab from start to finish. 
