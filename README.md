@@ -1,18 +1,8 @@
-# CS370
-Repository for CS370 Project
+# NBA Research Project
+Repository for NBA Research Project
 
-Deliverabes: 
+This project was intended to record player statistics from game footage in an attempt to measure the impact of an individual star player on basketball games. Using these statistics, a model was trained to predict the outcome of a game based on a player's performance. A model with 80% accuracy was achieved, and can be found in the Classifiers notebook. 
 
-September 8th - Complete role redefinition using publicly available data, complete sketch/plan for data visualization.
+Additionally, standard and advanced game statistics were used to define new roles for NBA players through the use of K-Means clustering. This can be found, alongside visualizations of the recorded player data, in the Altair notebook. 
 
-October 6th - Check in with data collection. If enough data is gathered move on to analysis, if not check back in during October 13th after finishing data collection.
-
-October 20th - Finish calculating correlation coefficients of selected statistical measures. Complete creation of a one number metric using all coefficients similar to the aforementioned player evaluation metrics. Compare and contrast the differences between these metrics and our metric.
-
-November 3rd - Logistic Regression model completed.
-
-November 10th - Random Forest Classifier completed. Compare with the Logistic Regression model and determine which one is more accurate.
-
-November 24th - Finish interactive data visualizations as per specifications in the plan from September 8th.
-
-December 6th - Finish writing paper about results and findings.
+Lastly, all visualizations and a few model predictions can be accessed in a web page format using the total.html file. 
