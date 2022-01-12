@@ -5,6 +5,4 @@ This project was intended to record player statistics from game footage in an at
 
 Additionally, standard and advanced game statistics were used to define new roles for NBA players through the use of K-Means clustering. This can be found, alongside visualizations of the recorded player data, in the Altair notebook. Simply click on the Altair.ipynb file, then click on the open in Colab button. From there, click on Runtime, then run all to execute the code contained in the notebook. 
 
-Lastly, all visualizations and a few model predictions can be accessed in a web page format using the total.html file. 
-
 Both notebooks can be run in google colab from start to finish. 
